@@ -1,0 +1,7 @@
+CHEATSHEET GIT GITHUB
+git init: sirve para inicializar el repositorio
+git add: sirve para agregar al repositorio los archivos nuevos o actualizaciones
+git status: Para visualizar el estado de los archivos en el repositorio
+git commit -m "": sirve para crear y nombrar el commitgit 
+git remote add //usuario@domain.com/repo.git: añadir a repositorio en GITHUB
+git clone ssh://usuario@domain.com/repo.git: clonar repositorio
