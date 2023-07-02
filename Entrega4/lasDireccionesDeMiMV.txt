@@ -1,0 +1,4 @@
+IP Privada
+    inet brd 172.17.255.255 
+MAC 
+20-16-B9-A1-E1-FB
