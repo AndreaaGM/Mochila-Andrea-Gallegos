@@ -1,0 +1,25 @@
+EJERCICIO
+
+Ventajas y desventajas 
+Tiene ventaja el uso de SSH, ya que  es mas seguro que telnet y tiene menos restricciones de recursos
+Sin embargo estas limitaciones en recursos le dan la ventaja a telnet al hacerlo compatible con mas plataformas.
+
+Diferencias entre protocolos
+Telnet transmite datos en texto plano por lo que es vulnerable a ataques de seguridad. 
+Por otro lado, SSH utiliza encriptacion para la transmision de datos y es poco probable que se produzca una violacion de la seguridad. 
+SSH puede resistir escuchas y ataques 
+
+SUBO ESTO DESDE KILLERCODA
+
+El procedimiento fue:
+inicio de sesion
+agregar credenciales
+clonar mochila
+buscar carpeta entregaa5
+agregar rama entrega 5
+crear archivo txt
+editar con nano
+actualizar cambios 
+realizar commit
+hacer push a la rama entrega5 con el uso de token de github
+
